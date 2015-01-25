@@ -1,0 +1,12 @@
+This is from jainsameer1991@gmail.com account.
+
+Add a remote to pra2. from commandline of jainsameer1991@gmail.com
+
+	git remote add origin  https://github.com/sameerjain20/pra2.git
+
+git remote ==> shows remote name as origin.
+
+git push branch(master) to (origin) remote (github(pra2))
+
+
+For forking purpose it is used.
